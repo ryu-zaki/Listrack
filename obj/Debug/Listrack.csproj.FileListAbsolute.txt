@@ -1,0 +1,115 @@
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Listrack.exe
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Guna.UI2.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Npgsql.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Listrack.exe.config
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Buffers.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Collections.Immutable.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Memory.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Text.Json.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Threading.Channels.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.ValueTuple.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Npgsql.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Buffers.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Collections.Immutable.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Memory.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Text.Json.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Threading.Channels.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.ValueTuple.xml
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.csproj.AssemblyReference.cache
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.login.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.Properties.Resources.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.register.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.csproj.GenerateResource.cache
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.csproj.CoreCompileInputs.cache
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.csproj.CopyComplete
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.exe
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.pdb
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Listrack.pdb
+<<<<<<< HEAD
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.MainMenu.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.sample_form.resources
+=======
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Listrack.exe.config
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Listrack.exe
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Listrack.pdb
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Guna.UI2.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Npgsql.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Buffers.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Collections.Immutable.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Memory.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Text.Json.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Threading.Channels.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.ValueTuple.dll
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\Npgsql.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Buffers.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Collections.Immutable.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Memory.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Text.Json.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Threading.Channels.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\bin\Debug\System.ValueTuple.xml
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.csproj.AssemblyReference.cache
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.login.resources
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.Properties.Resources.resources
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.register.resources
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.csproj.GenerateResource.cache
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.csproj.CoreCompileInputs.cache
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.csproj.CopyComplete
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.exe
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.pdb
+>>>>>>> e98f9dd696cda239aa88ccf058e1c9a7f51660d9
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.Expense_Tracker.resources
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.MainMenu.resources
+C:\Users\JM Tuba\Source\Repos\Listrack\obj\Debug\Listrack.sample_form.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.Expense_Tracker.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.ExpenseTrackerForm.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.NoteTakerForm.resources
+C:\Users\regine_agas\source\repos\Listrack\obj\Debug\Listrack.TodoListForm.resources
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Google.Protobuf.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\MySql.Data.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.IO.Pipelines.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\ZstdSharp.dll
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Google.Protobuf.pdb
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\Google.Protobuf.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\MySql.Data.xml
+C:\Users\regine_agas\source\repos\Listrack\bin\Debug\System.IO.Pipelines.xml
