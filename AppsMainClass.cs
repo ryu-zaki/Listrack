@@ -21,8 +21,8 @@ namespace Listrack
         //Initialized Forms;
 
 
-        //public static string connectionString = "Host=containers-us-west-79.railway.app;PORT=6130;USERNAME=postgres;PASSWORD=2zuy5TyWsONptHqxqNco;DATABASE=railway;";
-        public static string connectionString = "Host=localhost;PORT=5432;USERNAME=postgres;PASSWORD=reanneMoran;DATABASE=test";
+        public static string connectionString = "Host=containers-us-west-79.railway.app;PORT=6130;USERNAME=postgres;PASSWORD=2zuy5TyWsONptHqxqNco;DATABASE=railway;";
+        //public static string connectionString = "Host=localhost;PORT=5432;USERNAME=postgres;PASSWORD=reanneMoran;DATABASE=test";
         public static NpgsqlConnection connection = new NpgsqlConnection(connectionString);
 
        
